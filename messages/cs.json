@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "about": "O mně",
+    "services": "Služby",
+    "contact": "Kontakt",
+    "lang": "EN"
+  },
+  "hero": {
+    "kicker": "01 Frontend developer · Zlín",
+    "claim_before": "Stavím",
+    "claim_em": "weby a aplikace",
+    "claim_after": "co dávají smysl.",
+    "sub": "Fullstack developer s 7 lety v produkci. Rád pracuji na detailech, které jsou vidět — i na těch, co vidět nejsou.",
+    "tags": ["React", "TypeScript", "Next.js", "Node.js"],
+    "cta_primary": "Domluvit hovor",
+    "cta_secondary": "info@jakubjurena.cz",
+    "availability": "Přijímám zakázky"
+  },
+  "services": {
+    "kicker": "02 Co dělám",
+    "heading_before": "Tři věci,",
+    "heading_em": "které",
+    "heading_after": "umím dobře.",
+    "items": [
+      {
+        "num": "— 01",
+        "title": "Weby",
+        "desc": "Landingy, prezentace, e-shopy a marketingové weby na míru. Odhadnu projekt předem s pevným rozpočtem, nebo pracujeme agilně a obsah ladíme podle potřeby.",
+        "price": "dle náročnosti projektu",
+        "featured": true,
+        "accent": false
+      },
+      {
+        "num": "— 02",
+        "title": "Firemní aplikace",
+        "desc": "Interní nástroje, dashboardy, admin systémy. Dlouhodobá spolupráce, jasná dokumentace.",
+        "price": "dle náročnosti projektu",
+        "featured": false,
+        "accent": false
+      },
+      {
+        "num": "— 03",
+        "title": "Rozšíření týmu",
+        "desc": "Dlouholeté zkušenosti s prací v týmu i jako jediný vývojář. Vypomůžu na sprint, na projekt, nebo dlouhodobě — React, Next.js, TypeScript.",
+        "price": "dle náročnosti projektu",
+        "featured": false,
+        "accent": false
+      }
+    ],
+    "bigger_kicker": "03 Větší projekt",
+    "bigger_heading": "Myslíš, že bych na tvůj projekt nestačil sám?",
+    "bigger_body": "Stejně se ozvi — pobavíme se, co potřebuješ, a buď ti dokážu sestavit tým, nebo dohodit spolehlivého partnera.",
+    "bigger_cta": "Napsat"
+  },
+  "about": {
+    "kicker": "04 O mně",
+    "heading_before": "Něco",
+    "heading_em": "málo",
+    "heading_after": "o mně,\nať víš s kým mluvíš.",
+    "lead": "Fullstack developer, který si zakládá na řemesle. Píšu kód, který drží — a zároveň se s ním dobře pracuje dalším lidem v týmu.",
+    "facts": [
+      { "key": "role", "value": "Senior frontend developer — zvládám i backend." },
+      { "key": "stack", "value": "<b>React</b>, TypeScript, Next.js, Vite, Node.js (NestJS), REST/GraphQL." },
+      { "key": "zkušenost", "value": "<b>7 let</b> fulltime. Produkční projekty od MVP po enterprise." },
+      { "key": "život", "value": "Pyšný táta a hrdý manžel. Koukni na její vodítka — <a href=\"https://gowiththeflow.cz\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:inherit;text-decoration:underline\">gowiththeflow.cz</a>" },
+      { "key": "místo", "value": "Zlín · CZ · remote OK · občas Brno / Praha." }
+    ]
+  },
+  "contact": {
+    "kicker": "05 Kontakt",
+    "heading_before": "Máš projekt?",
+    "heading_em": "Ozvi se.",
+    "step1_num": "1",
+    "step1_head": "Napiš co potřebuješ",
+    "step1_desc": "Web, firemní appka, nebo posila do týmu? Pošli pár vět o projektu — ozvu se do 24 hodin.",
+    "step1_email": "info@jakubjurena.cz",
+    "step1_linkedin": "LinkedIn",
+    "step2_num": "2",
+    "step2_head": "Rezervuj 30 min hovor",
+    "step2_desc": "Online, bez závazku. Probereme rozsah, termíny a cenu — a uvidíme, jestli si sedneme.",
+    "cal_link_30": "jakub-jurena/30min",
+    "cal_link_15": "jakub-jurena/15min",
+    "book_btn": "Vybrat termín ↗"
+  },
+  "footer": {
+    "copy": "© 2026 Jakub Jurena",
+    "email": "info@jakubjurena.cz",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  }
+}

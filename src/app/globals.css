@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  --font-sans: var(--font-manrope), system-ui, sans-serif;
+  --font-serif: var(--font-newsreader), Georgia, serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, monospace;
+
+  --color-bg: #ece4d6;
+  --color-paper: #f5ecdd;
+  --color-paper-2: #fbf5e9;
+  --color-ink: #1e1814;
+  --color-ink-soft: #3b322a;
+  --color-muted: #7a6e5f;
+  --color-line: rgba(30, 24, 20, 0.10);
+  --color-line-strong: #1e1814;
+  --color-accent: #d96b3a;
+  --color-accent-soft: #f5d7c4;
+  --color-accent-ink: #6e2b12;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background-color: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: var(--color-accent-soft);
+  color: var(--color-accent-ink);
+}
