@@ -6,7 +6,7 @@
     "lang": "CS"
   },
   "hero": {
-    "kicker": "01 Frontend developer · Zlín",
+    "kicker": "01 Fullstack developer · Zlín",
     "claim_before": "I build",
     "claim_em": "websites and apps",
     "claim_after": "that make sense.",
@@ -26,7 +26,7 @@
         "num": "— 01",
         "title": "Websites",
         "desc": "Landings, presentations, e-commerce, and custom marketing sites. I can estimate upfront with a fixed budget, or we work agile and adjust as we go.",
-        "price": "based on project scope",
+        "price": "price by complexity",
         "featured": true,
         "accent": false
       },
@@ -34,7 +34,7 @@
         "num": "— 02",
         "title": "Business apps",
         "desc": "Internal tools, dashboards, admin systems. Long-term collaboration, clear documentation.",
-        "price": "based on project scope",
+        "price": "price by complexity",
         "featured": false,
         "accent": false
       },
@@ -42,11 +42,12 @@
         "num": "— 03",
         "title": "Team extension",
         "desc": "Years of experience working in teams and as a solo developer. I can help out for a sprint, a project, or long-term — React, Next.js, TypeScript.",
-        "price": "based on project scope",
+        "price": "price by complexity",
         "featured": false,
         "accent": false
       }
     ],
+    "card_cta": "Write",
     "bigger_kicker": "03 Bigger project",
     "bigger_heading": "Think I wouldn't be enough for your project alone?",
     "bigger_body": "Reach out anyway — we'll talk through what you need, and I can either put together a team or refer you to a reliable partner.",
@@ -59,7 +60,7 @@
     "heading_after": "so you know who you're talking to.",
     "lead": "Fullstack developer who takes craft seriously. I write code that holds — and that other people on the team enjoy working with.",
     "facts": [
-      { "key": "role", "value": "Senior frontend developer — I handle backend too." },
+      { "key": "role", "value": "Fullstack developer — frontend and backend." },
       { "key": "stack", "value": "<b>React</b>, TypeScript, Next.js, Vite, Node.js (NestJS), REST/GraphQL." },
       { "key": "experience", "value": "<b>7 years</b> fulltime. Production projects from MVP to enterprise." },
       { "key": "life", "value": "Proud dad and husband. Check out her dog leads — <a href=\"https://gowiththeflow.cz\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:inherit;text-decoration:underline\">gowiththeflow.cz</a>" },

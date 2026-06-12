@@ -14,6 +14,7 @@ type ServiceItem = {
 export default function Services() {
   const t = useTranslations("services");
   const items = t.raw("items") as ServiceItem[];
+  const cardCta = t("card_cta");
 
   return (
     <section id="sluzby" style={{ padding: "0 24px", marginTop: 80 }}>
@@ -143,22 +144,29 @@ export default function Services() {
                 >
                   {item.price}
                 </span>
-                <span
+                <a
+                  href="#kontakt"
                   style={{
-                    width: 32,
-                    height: 32,
+                    display: "inline-flex",
+                    alignItems: "center",
+                    gap: 8,
                     borderRadius: "999px",
                     background: arrowBg,
                     color: "var(--color-paper)",
-                    display: "inline-flex",
-                    alignItems: "center",
-                    justifyContent: "center",
+                    padding: "12px 22px",
+                    fontFamily: "var(--font-sans)",
+                    fontWeight: 600,
                     fontSize: 14,
+                    textDecoration: "none",
                     flexShrink: 0,
+                    whiteSpace: "nowrap",
+                    transition: "opacity .15s",
                   }}
+                  onMouseEnter={(e) => (e.currentTarget.style.opacity = "0.85")}
+                  onMouseLeave={(e) => (e.currentTarget.style.opacity = "1")}
                 >
-                  →
-                </span>
+                  {cardCta} ↗
+                </a>
               </div>
             </div>
           );

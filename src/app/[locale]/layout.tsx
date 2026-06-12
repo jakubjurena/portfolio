@@ -26,9 +26,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jakub Jurena – Frontend Developer · Zlín",
+  title: "Jakub Jurena – Fullstack Developer · Zlín",
   description:
-    "Frontend developer se 7 lety zkušeností. Stavím weby a aplikace co dávají smysl.",
+    "Fullstack developer se 7 lety zkušeností. Stavím weby a aplikace co dávají smysl.",
   icons: {
     icon: "/jj.ico",
   },

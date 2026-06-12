@@ -6,11 +6,11 @@
     "lang": "EN"
   },
   "hero": {
-    "kicker": "01 Frontend developer · Zlín",
+    "kicker": "01 Fullstack developer · Zlín",
     "claim_before": "Stavím",
     "claim_em": "weby a aplikace",
     "claim_after": "co dávají smysl.",
-    "sub": "Fullstack developer s 7 lety v produkci. Rád pracuji na detailech, které jsou vidět — i na těch, co vidět nejsou.",
+    "sub": "Fullstack developer s 7 lety v produkci. Rychlé načítání, čistý kód, výsledek co prodává.",
     "tags": ["React", "TypeScript", "Next.js", "Node.js"],
     "cta_primary": "Domluvit hovor",
     "cta_secondary": "info@jakubjurena.cz",
@@ -26,7 +26,7 @@
         "num": "— 01",
         "title": "Weby",
         "desc": "Landingy, prezentace, e-shopy a marketingové weby na míru. Odhadnu projekt předem s pevným rozpočtem, nebo pracujeme agilně a obsah ladíme podle potřeby.",
-        "price": "dle náročnosti projektu",
+        "price": "cena dle náročnosti",
         "featured": true,
         "accent": false
       },
@@ -34,19 +34,20 @@
         "num": "— 02",
         "title": "Firemní aplikace",
         "desc": "Interní nástroje, dashboardy, admin systémy. Dlouhodobá spolupráce, jasná dokumentace.",
-        "price": "dle náročnosti projektu",
+        "price": "cena dle náročnosti",
         "featured": false,
         "accent": false
       },
       {
         "num": "— 03",
         "title": "Rozšíření týmu",
-        "desc": "Dlouholeté zkušenosti s prací v týmu i jako jediný vývojář. Vypomůžu na sprint, na projekt, nebo dlouhodobě — React, Next.js, TypeScript.",
-        "price": "dle náročnosti projektu",
+        "desc": "Dlouholeté zkušenosti s prací v týmu. Vypomůžu na sprint, na projekt, nebo dlouhodobě — React, Next.js, TypeScript.",
+        "price": "cena dle náročnosti",
         "featured": false,
         "accent": false
       }
     ],
+    "card_cta": "Napsat",
     "bigger_kicker": "03 Větší projekt",
     "bigger_heading": "Myslíš, že bych na tvůj projekt nestačil sám?",
     "bigger_body": "Stejně se ozvi — pobavíme se, co potřebuješ, a buď ti dokážu sestavit tým, nebo dohodit spolehlivého partnera.",
@@ -59,7 +60,7 @@
     "heading_after": "o mně,\nať víš s kým mluvíš.",
     "lead": "Fullstack developer, který si zakládá na řemesle. Píšu kód, který drží — a zároveň se s ním dobře pracuje dalším lidem v týmu.",
     "facts": [
-      { "key": "role", "value": "Senior frontend developer — zvládám i backend." },
+      { "key": "role", "value": "Fullstack developer — frontend i backend." },
       { "key": "stack", "value": "<b>React</b>, TypeScript, Next.js, Vite, Node.js (NestJS), REST/GraphQL." },
       { "key": "zkušenost", "value": "<b>7 let</b> fulltime. Produkční projekty od MVP po enterprise." },
       { "key": "život", "value": "Pyšný táta a hrdý manžel. Koukni na její vodítka — <a href=\"https://gowiththeflow.cz\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:inherit;text-decoration:underline\">gowiththeflow.cz</a>" },

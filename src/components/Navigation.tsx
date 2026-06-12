@@ -63,7 +63,7 @@ export default function Navigation() {
                 letterSpacing: "0.12em",
               }}
             >
-              WEB DEVELOPER · ZLÍN
+              FULLSTACK DEVELOPER · ZLÍN
             </div>
           </div>
         </div>
